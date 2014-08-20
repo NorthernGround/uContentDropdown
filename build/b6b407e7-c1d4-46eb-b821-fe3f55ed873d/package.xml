@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<umbPackage>
+  <files>
+    <file>
+      <guid>package.manifest</guid>
+      <orgPath>/App_Plugins/uContentDropdown</orgPath>
+      <orgName>package.manifest</orgName>
+    </file>
+    <file>
+      <guid>uContentDropdown.controller.js</guid>
+      <orgPath>/App_Plugins/uContentDropdown</orgPath>
+      <orgName>uContentDropdown.controller.js</orgName>
+    </file>
+    <file>
+      <guid>uContentDropdown.resource.js</guid>
+      <orgPath>/App_Plugins/uContentDropdown</orgPath>
+      <orgName>uContentDropdown.resource.js</orgName>
+    </file>
+    <file>
+      <guid>uContentDropdown.html</guid>
+      <orgPath>/App_Plugins/uContentDropdown</orgPath>
+      <orgName>uContentDropdown.html</orgName>
+    </file>
+    <file>
+      <guid>NorthernGround.uContentDropdown.dll</guid>
+      <orgPath>/bin</orgPath>
+      <orgName>NorthernGround.uContentDropdown.dll</orgName>
+    </file>
+  </files>
+  <info>
+    <package>
+      <name>Content Dropdown List</name>
+      <version>1.0</version>
+      <license url="http://opensource.org/licenses/MIT">MIT License</license>
+      <url>http://www.northernground.com</url>
+      <requirements>
+        <major>3</major>
+        <minor>0</minor>
+        <patch>0</patch>
+      </requirements>
+    </package>
+    <author>
+      <name>Northern Ground</name>
+      <website>http://www.northernground.com</website>
+    </author>
+    <readme><![CDATA[ Allows editors to choose a content node from a dropdown list populated by an xpath expression. ]]></readme>
+  </info>
+  <DocumentTypes />
+  <Templates />
+  <Stylesheets />
+  <Macros />
+  <DictionaryItems />
+  <Languages />
+  <DataTypes />
+</umbPackage>
